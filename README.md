@@ -6,6 +6,9 @@ I made this because I wanted a quick and simple way to turn images into GIFs wit
 
 ## 👉 [Download latest release](https://github.com/findaballs/Python-Image-To-Gif-Converter/releases)
 
+## 🦠 VirusTotal Scan:
+https://www.virustotal.com/gui/file/9f019b1e185c26cf4d60dfe854a95613e58232a973aca9e0ccfd2cad9b2284cd/detection
+
 ## What it does
 - Converts images to GIF
 - Supports common formats like PNG and JPG
