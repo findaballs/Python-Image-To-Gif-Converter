@@ -20,3 +20,6 @@ I made this because I wanted a quick and simple way to turn images into GIFs wit
 ## Install
 ```bash
 pip install Pillow imageio
+```
+
+👉 [Download latest release](https://github.com/findaballs/Python-Image-To-Gif-Converter/releases)
