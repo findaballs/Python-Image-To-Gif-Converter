@@ -1,0 +1,3 @@
+pip install Pillow
+pip install imageio
+pip install pyinstaller
