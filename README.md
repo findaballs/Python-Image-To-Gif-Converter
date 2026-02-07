@@ -4,6 +4,8 @@ A small Python program that converts images (png, jpg, etc.) into GIF files.
 
 I made this because I wanted a quick and simple way to turn images into GIFs without using online tools.
 
+## 👉 [Download latest release](https://github.com/findaballs/Python-Image-To-Gif-Converter/releases)
+
 ## What it does
 - Converts images to GIF
 - Supports common formats like PNG and JPG
@@ -21,5 +23,3 @@ I made this because I wanted a quick and simple way to turn images into GIFs wit
 ```bash
 pip install Pillow imageio
 ```
-
-## 👉 [Download latest release](https://github.com/findaballs/Python-Image-To-Gif-Converter/releases)
