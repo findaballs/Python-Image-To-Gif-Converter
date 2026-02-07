@@ -11,7 +11,7 @@ I made this because I wanted a quick and simple way to turn images into GIFs wit
 - Supports common formats like PNG and JPG
 - Free and open source
 
-## Requirements
+## Requirements (Ignore if you just want the release)
 - Python 3
 - Pillow
 - imageio
