@@ -17,6 +17,6 @@ I made this because I wanted a quick and simple way to turn images into GIFs wit
 (Optional)
 - pyinstaller (only if you want to build an executable)
 
-How To Install (REQ):
-pip install Pillow
-pop install imageio
+## Install
+```bash
+pip install Pillow imageio
